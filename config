@@ -192,3 +192,5 @@ bar {
 # Flameshot
 
 bindsym $mod+s exec "flameshot gui"
+
+for_window [class=Code] border pixel 0
